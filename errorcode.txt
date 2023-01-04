@@ -1,0 +1,2 @@
+LQ001 - Type into email and password is not visible on scrreen.
+VPC001 - Fail to Enter the pen number (Pen text box is not visible)
