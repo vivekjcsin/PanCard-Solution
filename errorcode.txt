@@ -1,2 +1,3 @@
 LQ001 - Type into email and password is not visible on scrreen.
-VPC001 - Fail to Enter the pen number (Pen text box is not visible)
+VPC001 - Fail to Enter the pen number (Pan text box is not visible)
+VPC002 - Invoke login workflow failed.
